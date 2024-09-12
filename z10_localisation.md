@@ -5,27 +5,26 @@ tagline: Comment accéder aux Rencontres ?
 menu: header
 ---
 
-Après une édition à Clermont-Ferrand, les rencontres traversent la Région Auvergne-Rhône-Alpes
-pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes.
+Après une édition à Grenoble, les rencontres descendent plus au sud
+pour rejoindre Avignon avec le soutien de l'Université d'Avignon.
 
 <!-- Si vous venez de loin, n'hésitez pas à proposer un [covoiturage](https://www.covievent.org/covoiturage/rencontres-des-utilisateurs-francophones-de-qgis-edition-2023/fd0136f530d30cafbd9159e45cbc3fb1) -->
 
 <table>
   <tr>
-    <th colspan=2><p align=center>Se rendre à l'IUGA</p></th>
+    <th colspan=2><p align=center>Se rendre à Avignon Université</p></th>
   </tr>
   <tr>
     <td>
-      <p><b>14bis Avenue Marie Reynoard 38100 Grenoble</b><br/><br/>
+      <p><b>74 rue Louis Pasteur 84 029 Avignon</b><br/><br/>
       S'y rendre en <b>transports en commun</b> : <br/>
       <ul>
-        <li>1/2 h par le Tram A / arrêt Grenoble, Gares - Direction Le Pont-de-Claix, l'Etoile<br />Descendre à l'arrêt Grenoble, la Bruyère-Parc Jean Verlhac 
-          19 mn de tramway puis 6 min à pied (400 m)</li>
+        <li>...</li>
       </ul>
       S'y rendre en <b>modes doux</b> : <br/>
       <ul>
-        <li>A pied : 45 minutes (3,5 km) de la gare de Grenoble</li>
-        <li>A vélo : 18 mn (3,7 km dont 3,5 km de voies cyclables) de la gare de Grenoble</li>
+        <li>A pied : L’Université est située à 20 mn de la gare centre</li>
+        <li>A vélo : L’Université est située à 10 mn de la gare centre</li>
       </ul>
       </p>
     </td>
@@ -35,6 +34,5 @@ pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes.
   </tr>
  </table>
 
-Pour une [visite virtuelle de l'IUGA](https://www.hdmedia.fr/visite-virtuelle/hd/cbpdbphKJ-institut-de-geographie-alpine.html)
 
 [Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})
